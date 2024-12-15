@@ -1,0 +1,9 @@
+streamlit
+tensorflow
+opencv-python
+scikit-learn
+boto3
+sqlalchemy
+huggingface_hub
+elasticsearch
+langchain
